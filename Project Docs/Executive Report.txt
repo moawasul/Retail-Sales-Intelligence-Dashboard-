@@ -1,0 +1,17 @@
+The "Senior Analyst" Executive Report
+
+Subject: Strategic Sales Analysis & Operational Recommendations (FY 2010-2011)
+To: Executive Management Team
+From: Mohammed Sulieman, Senior Data Analyst
+1. Executive Summary
+The Retail Performance Dashboard indicates a strong Year-over-Year growth trajectory, with total revenue reaching 19.45M, However, operational inefficiencies are detected in the form of a 7.28
+1.53M and a significant segment of "At-Risk" customers who have not transacted in over 6 months.
+
+2. Key Findings
+Revenue Growth: The business displays strong seasonality, with Q4 (Sept-Dec) driving approximately 35% of annual revenue. Q4 2011 shows a slowing growth trend compared to the explosive growth seen in 2010.
+Product Portfolio: Pareto analysis confirms that top 100 products drive the majority of volume. However, several high-volume items are suffering from above-average return rates (>5%), indicating potential quality control or description errors.
+Customer Health: While we have 5,940 active customers, nearly 25% of revenue comes from "Guest" (Unknown) checkouts. Among identified customers, a cohort of high-value clients has become dormant (Churned) prior to June 2011.
+3. Strategic Recommendations
+Reduce Returns: Launch a quality audit on the "Top 10 Returned Products" identified in the Product Analysis view. Reducing the return rate by just 1% would reclaim $200k+ in annual revenue.
+Customer Activation: The Marketing team should target the "At-Risk" list (identified in the dashboard) with re-engagement offers. These customers have a proven history of high spend but have gone cold.
+Guest Conversion: Implement a loyalty incentive at checkout to capture the "Unknown" customer data. We are currently blind to 25% of our customer behaviors.
